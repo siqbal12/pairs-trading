@@ -21,7 +21,7 @@ def pairs_trading(ticker1, ticker2, transaction_costs_included=True):
 
 #User inputs!
 ticker1 = 'KO'
-ticker2 = 'C'
+ticker2 = 'PEP'
 transaction_costs_included = True
 
 strategy_df, prices = pairs_trading(ticker1, ticker2, transaction_costs_included=transaction_costs_included)
