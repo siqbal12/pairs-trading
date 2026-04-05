@@ -7,6 +7,6 @@ To run the Pairs Trading Strategy:
         - The strategy will not run since this initial assumption is not verified
      
 Some pairs which are cointegrated and whose spread is stationary:
-- USO & UNG (Crude Oil & Natural Gas)
+- USO & UNG (Crude Oil ETF & Natural Gas ETF)
 - KO & PEP (Coca-Cola & Pepsi)
 - NVDA & AAPL (Nvidia & Apple)
